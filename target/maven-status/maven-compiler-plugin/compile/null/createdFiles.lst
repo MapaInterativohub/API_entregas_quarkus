@@ -1,6 +1,0 @@
-com\example\controllers\ControleDeEntregas.class
-com\example\models\Entregas.class
-com\example\dto\FrotaDTO.class
-com\example\client\FrotaClient.class
-com\example\dto\DisponibilidadeDTO.class
-com\example\repository\RepositorioEntregas.class
